@@ -5,7 +5,7 @@ function Tuning() {
   return (
     <div className="flex flex-col items-center mt-[120px] relative">
       <h1 className="flex font-bold text-[20px]  justify-center text-[black]">
-        Afinación y balanceo
+        Afinación
       </h1>
       <Image
         className="rounded-[0px] h-[200px] lg:h-full"
@@ -17,7 +17,7 @@ function Tuning() {
         style={{ zIndex: 10 }}
       >
         En nuestro taller nos enorgullecemos de ofrecer una gama completa de
-        servicios de afinacio diseñados para optimizar el rendimiento y la
+        servicios de afinacion diseñados para optimizar el rendimiento y la
         eficiencia de tu vehículo. Nuestro equipo de técnicos altamente
         capacitados utiliza herramientas y equipos de diagnóstico de vanguardia
         para realizar un cambio de aceite y filtro de alta calidad, reemplazar
